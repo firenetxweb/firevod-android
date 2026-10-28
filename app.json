@@ -3,16 +3,8 @@
     "name": "FIREVOD",
     "slug": "firevod",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "dark",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#111111"
-    },
     "android": {
-      "package": "com.firevodd.app",
+      "package": "com.firevod.app",
       "config": {
         "leanback": true
       }
